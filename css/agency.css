@@ -326,7 +326,7 @@ section h3.section-subheading {
   opacity: 1;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
-  position: ;
+  position: absolute;
   width: 100%;
   height: 20px;
   font-size: 20px;
@@ -346,7 +346,7 @@ section h3.section-subheading {
   max-width: 400px;
   margin: 0 auto;
   background-color: white;
-  text-align: center;
+  text-align: left;
   padding: 25px;
 }
 #portfolio .portfolio-item .portfolio-caption h4 {
